@@ -9,6 +9,10 @@ body{
 
 .inicio-navbar {
     background-color: transparent !important;
+    color: black;
+}
+a{
+    color:black !important;
 }
 
 footer{
