@@ -2,6 +2,10 @@ body{
     font-family: "Oswald", sans-serif;
 }
 
+.container-fluid{
+    background-color:slategrey;
+}
+
 .inicio-navbar {
     background-color: #343a40; /* Gris oscuro */
 }
@@ -15,4 +19,9 @@ footer{
 .Isla_pascua
 {
     color:white;
+}
+
+.Sur_austral{
+    color:black;
+    -webkit-text-stroke: 0.5px orange;
 }
