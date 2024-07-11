@@ -2,12 +2,13 @@ body{
     font-family: "Oswald", sans-serif;
 }
 
+
 .container-fluid{
     background-color:slategrey;
 }
 
 .inicio-navbar {
-    background-color: #343a40; /* Gris oscuro */
+    background-color: transparent !important;
 }
 
 footer{
